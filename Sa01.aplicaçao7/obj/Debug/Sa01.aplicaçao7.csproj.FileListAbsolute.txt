@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Sa01\Sa01.aplicaçao7\bin\Debug\Sa01.aplicaçao7.exe.config
+C:\Users\Asus\source\repos\Sa01\Sa01.aplicaçao7\bin\Debug\Sa01.aplicaçao7.exe
+C:\Users\Asus\source\repos\Sa01\Sa01.aplicaçao7\bin\Debug\Sa01.aplicaçao7.pdb
+C:\Users\Asus\source\repos\Sa01\Sa01.aplicaçao7\obj\Debug\Sa01.aplicaçao7.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Sa01\Sa01.aplicaçao7\obj\Debug\Sa01.aplicaçao7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Sa01\Sa01.aplicaçao7\obj\Debug\Sa01.aplicaçao7.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Sa01\Sa01.aplicaçao7\obj\Debug\Sa01.aplicaçao7.exe
+C:\Users\Asus\source\repos\Sa01\Sa01.aplicaçao7\obj\Debug\Sa01.aplicaçao7.pdb
